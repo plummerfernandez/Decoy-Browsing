@@ -37,7 +37,7 @@ by Matthew Plummer-Fernandez, 2015
 
 """
 
-import time, random, argparse, ConfigParser
+import time, random, ConfigParser
 from selenium import webdriver
 from random_words import RandomWords
 from bs4 import BeautifulSoup
